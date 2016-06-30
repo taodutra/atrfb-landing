@@ -39,7 +39,6 @@
 		</nav>
         
         <div class="main-wrapper main intro">
-            <a href="" class="history-back mobile-only"></a>
             <div class="container">
 
             	<div class="text">
@@ -57,7 +56,7 @@
             	</div>
 
             	<div class="fb">
-            		<p class="title"><a href="" title="Manifeste-se!">Manifeste-se!</a></p>
+            		<p class="title"><a href="https://www.facebook.com/Democracia-ATRFB-246913679010525" target="_blank" title="Manifeste-se!">Manifeste-se!</a></p>
 					<div class="fb-page" data-href="https://www.facebook.com/Democracia-ATRFB-246913679010525" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Democracia-ATRFB-246913679010525" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Democracia-ATRFB-246913679010525">Democracia ATRFB</a></blockquote></div>
             	</div>
             </div>
