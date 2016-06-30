@@ -44,11 +44,15 @@
 
             	<div class="text">
 	
-	            	<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h2>
+	            	<h2>Participe da história para a real democracia dos ATRFB</h2>
 
-					<h3>Phasellus et tempus leo. Sed tempor tellus in quam consectetur, ut tincidunt elit rhoncus.</h3>
+					<h3>Um movimento compartilhado por quem deseja se ver representado no SINDIRECEITA. Participe!</h3>
 
-					<p>Vestibulum euismod vel leo in lacinia. Integer eleifend diam vel neque lacinia, sit amet cursus lacus feugiat. Integer at vulputate est, porta rutrum ipsum. Quisque vulputate tellus id neque congue, eget pretium nunc auctor. Etiam vitae urna auctor, vehicula magna sed, euismod leo. Suspendisse ornare euismod nulla, id ultrices nibh efficitur id. Fusce egestas odio non nisi consequat, aliquet euismod nibh volutpat. Fusce nisi massa, dignissim non tellus quis, interdum vestibulum odio. Maecenas volutpat aliquet magna, vel consectetur ante fringilla ac.</p>
+					<p>
+						Se você é Analista tributário, é seu papel participar das nossas discussões. Queremos trazer as nossas principais questões profissionais e representativas para debate. Só assim acreditamos fazer com que nossos representantes saibam como pensamos. Independente das contradições, os objetivos em comum devem estar acima dos interesses pessoais, para que todo o setor possa seguir progredindo.<br />
+						Participe agora mesmo do debate, coloque suas ideias, converse na nossa página no Facebook.<br />
+						Seja protagonista da nossa própria história.
+					</p>
 
             	</div>
 
